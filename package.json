@@ -21,7 +21,7 @@
     "connect-ensure-login": "^0.1.1",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.1",
     "file-extension": "^4.0.5",
     "jsonwebtoken": "^8.5.1",
